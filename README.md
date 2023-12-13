@@ -1,4 +1,4 @@
-# libsum Library for C
+# librandomvalue Library for C
 
 ## Installation
 
